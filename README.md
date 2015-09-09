@@ -1,5 +1,4 @@
 Deep Learning Feature Visualization for RSVP EEG data
-
 =====================================
 
 Usage: launch_GUI.m
